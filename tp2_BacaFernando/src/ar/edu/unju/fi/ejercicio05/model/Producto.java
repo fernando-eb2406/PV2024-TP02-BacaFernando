@@ -77,4 +77,9 @@ public class Producto {
 		this.estado = estado;
 	}
 
+	public boolean isEstado() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
